@@ -1,0 +1,13 @@
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\bin\Debug\netstandard2.0\MultiMediaPicker.deps.json
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\bin\Debug\netstandard2.0\MultiMediaPicker.dll
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\bin\Debug\netstandard2.0\ref\MultiMediaPicker.dll
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\bin\Debug\netstandard2.0\MultiMediaPicker.pdb
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\MultiMediaPicker.AssemblyInfoInputs.cache
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\MultiMediaPicker.AssemblyInfo.cs
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\MultiMediaPicker.csproj.CoreCompileInputs.cache
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\MultiMediaPicker.dll
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\ref\MultiMediaPicker.dll
+C:\Users\Deytek\Desktop\MultiMediaPicker\MultiMediaPicker\MultiMediaPicker\obj\Debug\netstandard2.0\MultiMediaPicker.pdb
