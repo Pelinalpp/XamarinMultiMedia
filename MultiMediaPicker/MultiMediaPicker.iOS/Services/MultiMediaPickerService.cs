@@ -91,14 +91,6 @@ namespace MultiMediaPicker.iOS.Services
 
             try
             {
-                var options = new PHImageRequestOptions()
-                {
-                    NetworkAccessAllowed = true
-                };
-
-                options.Synchronous = false;
-                options.ResizeMode = PHImageRequestOptionsResizeMode.Fast;
-                options.DeliveryMode = PHImageRequestOptionsDeliveryMode.HighQualityFormat;
                 bool completed = false;
                 for (var i = 0; i < args.Assets.Length; i++)
                 {
@@ -156,6 +148,16 @@ namespace MultiMediaPicker.iOS.Services
                             }
                             break;
                         default:
+                        {
+                            var options = new PHImageRequestOptions()
+                            {
+                                NetworkAccessAllowed = true
+                            };
+
+                            options.Synchronous = false;
+                            options.ResizeMode = PHImageRequestOptionsResizeMode.Fast;
+                            options.DeliveryMode = PHImageRequestOptionsDeliveryMode.HighQualityFormat;
+                
                             PHImageManager.DefaultManager.RequestImageData(asset, options, (data, dataUti, orientation, info) =>
                             {
 
@@ -184,7 +186,8 @@ namespace MultiMediaPicker.iOS.Services
                                 }
 
                             });
-                            break;
+                       }
+                       break;
                     }
                 }
             }
